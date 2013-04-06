@@ -10,6 +10,9 @@ template: best
 */
 
 
+@import url("../best/style.css");
+
+
 /* =Custom
 ----------------------------------------------- */
 hgroup h1 a {
