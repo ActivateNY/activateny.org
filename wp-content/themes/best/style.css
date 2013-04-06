@@ -4963,3 +4963,13 @@ footer .container.container-main.footer-top .widget-title {
 .mll, .mhl, .mal {
   margin-left: 20px !important;
 }
+
+/* =Custom
+----------------------------------------------- */
+hgroup h1 a {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
