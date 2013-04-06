@@ -8,7 +8,7 @@ function theme_styles()
   wp_register_style( 'custom-style', 
     get_stylesheet_directory() . '/css/custom-style.css', 
     array(), 
-    '20120208', 
+    '20130406', 
     'all' );
 
   // enqueing:
