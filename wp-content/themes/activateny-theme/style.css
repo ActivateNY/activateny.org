@@ -13,13 +13,4 @@ template: best
 @import url("../best/style.css");
 
 
-/* Custom */
-.name-text hgroup h1 a {
-    color: black;
-    display: inline;
-    font-family: arial,sans-serif;
-    font-style: italic;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
+/* Custom tyles are in css/custom-style.css */
