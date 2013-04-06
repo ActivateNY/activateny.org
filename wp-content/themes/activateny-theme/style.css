@@ -10,12 +10,12 @@ template: best
 */
 
 
-/*@import url("../best/style.css");*/
+/* @import url("../best/style.css"); */
 
 
 /* =Custom
 ----------------------------------------------- */
-hgroup h1 a {
+.name-text hgroup h1 a {
   font-family: Arial, sans-serif;
   font-weight: bold;
   text-transform: uppercase;
