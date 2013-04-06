@@ -15,9 +15,11 @@ template: best
 
 /* Custom */
 .name-text hgroup h1 a {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-style: italic;
+    color: black;
+    display: inline;
+    font-family: arial,sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
