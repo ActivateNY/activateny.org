@@ -1,0 +1,21 @@
+/*
+Theme Name: Activate!NY
+Theme URI: http://activatenyc.org
+Description: Custom child theme based on the Best theme
+Version: 1.0
+Tags: light, white, gray, red, orange, yellow, green, blue, purple, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, flexible-width, custom-background, custom-colors, custom-menu, featured-images, full-width-template, theme-options, threaded-comments
+License: GNU General Public License (3.0)
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+template: best
+*/
+
+
+/* =Custom
+----------------------------------------------- */
+hgroup h1 a {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
