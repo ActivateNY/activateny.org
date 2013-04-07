@@ -10,9 +10,15 @@ function theme_styles()
     array(), 
     '20130406', 
     'all' );
+  wp_register_style( 'custom-header', 
+    'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,700italic,400italic,700', 
+    array(), 
+    '20130406', 
+    'all' )
 
   // enqueing:
   wp_enqueue_style( 'custom-style' );
+  wp_enqueue_style( 'custom-header' );
 }
 add_action('wp_enqueue_scripts', 'theme_styles');
 
