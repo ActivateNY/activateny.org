@@ -50,6 +50,10 @@ h3.widget-title {
 	font-size: 25px;
 }
 
+.header-banner-area form.navbar-search {
+	float: left;
+}
+
 /* Featured Bar */
 .featured-bar {
 	background-image: none;
