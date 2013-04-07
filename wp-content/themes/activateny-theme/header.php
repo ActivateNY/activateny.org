@@ -73,7 +73,8 @@
                     </div><!-- end .span8 -->
                     <?php if ( of_get_option( 'best_display_header_banner_area', 'no entry' ) ) : ?>
                     <div class="span4 header-banner-area">
-                        <?php echo of_get_option( 'best_header_banner_area', 'no entry' ); ?>
+                        <?php echo of_get_option( 'best_header_banner_area', 'no entry' ); ?><br />
+                        <?php get_search_form(); ?>
                     </div>
                     <?php endif; ?>
                 </div><!-- end .row -->
