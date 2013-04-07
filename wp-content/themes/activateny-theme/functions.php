@@ -8,12 +8,12 @@ function theme_styles()
   wp_register_style( 'custom-style', 
     get_bloginfo('stylesheet_directory') . '/css/custom-style.css', 
     array(), 
-    '20130406', 
+    '20130406a', 
     'all' );
   wp_register_style( 'custom-header', 
     'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,700italic,400italic,700', 
     array(), 
-    '20130406', 
+    '20130406a', 
     'all' );
 
   // enqueing:
