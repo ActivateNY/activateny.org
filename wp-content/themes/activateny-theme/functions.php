@@ -20,6 +20,6 @@ function theme_styles()
   wp_enqueue_style( 'custom-style' );
   wp_enqueue_style( 'custom-header' );
 }
-add_action('wp_enqueue_scripts', 'theme_styles');
+add_action('wp_enqueue_scripts', 'theme_styles', 18);
 
 ?>
