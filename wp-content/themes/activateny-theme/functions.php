@@ -14,7 +14,7 @@ function theme_styles()
     'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,700italic,400italic,700', 
     array(), 
     '20130406', 
-    'all' )
+    'all' );
 
   // enqueing:
   wp_enqueue_style( 'custom-style' );
