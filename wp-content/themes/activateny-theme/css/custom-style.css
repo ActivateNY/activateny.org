@@ -47,7 +47,7 @@ h3.widget-title {
 }
 
 /* Footer */
-footer div.container {
+footer .container.container-main.footer-top {
 	border-top: 3px solid #cf0000;
 }
 
