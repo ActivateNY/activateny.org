@@ -65,7 +65,7 @@
                         <div class="name-text">
                             <hgroup>
                                 <h1>
-                                    <a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"><?php bloginfo( 'name' ); ?><?php echo html_entity_decode(get_bloginfo('description')); ?></a>
+                                    <a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"><?php// bloginfo( 'name' ); ?><?php echo html_entity_decode(get_bloginfo('description')); ?></a>
                                 </h1>
                             </hgroup>
                         </div>

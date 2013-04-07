@@ -42,6 +42,10 @@ a:link {
     letter-spacing: 0.0125em;
 }
 
+.name-text hgroup h1 a .exclamation {
+	color: #cf0000;
+}
+
 h3.widget-title {
 	font-size: 25px;
 }
