@@ -2,8 +2,14 @@
 Custom theme styles
 */
 
+/*Global*/
+h1, h2, h3, h4 {
+	text-transform: uppercase;
+}
 
-/* Custom */
+/* Header */
+
+
 .name-text hgroup h1 a {
     color: black;
     display: inline;
@@ -11,5 +17,6 @@ Custom theme styles
     font-style: italic;
     font-weight: bold;
     text-transform: uppercase;
+    font-size: 60px;
 }
 
