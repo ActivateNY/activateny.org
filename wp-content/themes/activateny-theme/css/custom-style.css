@@ -25,8 +25,12 @@ h3.widget-title {
 	font-style: italic;
 }
 
-/* Header */
+a,
+a:link {
+	color: #cf0000;
+}
 
+/* Header */
 
 .name-text hgroup h1 a {
     color: black;
@@ -40,5 +44,10 @@ h3.widget-title {
 
 h3.widget-title {
 	font-size: 25px;
+}
+
+/* Footer */
+footer div.container {
+	border-top: 3px solid #cf0000;
 }
 
